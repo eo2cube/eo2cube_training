@@ -1,1 +1,1 @@
-# datacube_wiki
+# eo2cube_wiki
