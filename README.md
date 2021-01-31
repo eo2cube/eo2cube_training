@@ -1,1 +1,1 @@
-# eo2cube_wiki
+# eo2cube_training
